@@ -396,14 +396,14 @@ export default function GameDashboard({ initialGame }: GameDashboardProps = {}) 
         {/* Header */}
         <div className="text-center mb-12">
           <p className="text-sm text-orange-800 mb-4">
-            Crafted on v0.dev by{" "}
+            {" "}
             <a
-              href="https://x.com/shribuilds"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="font-medium text-orange-900 underline underline-offset-2"
             >
-              shrix1
+              
             </a>
           </p>
           <h1 className="text-5xl sm:text-6xl font-bold text-white mb-4 drop-shadow-lg">Fun Games</h1>

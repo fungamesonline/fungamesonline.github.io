@@ -7,12 +7,12 @@ export default function Footer() {
           <div className="text-xs sm:text-sm text-gray-400">
             <span>© 2025 Fun Games | </span>
             <a
-              href="https://x.com/shribuilds"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="text-orange-400 hover:text-orange-300 transition-colors"
             >
-              Built by shrix1
+              
             </a>
           </div>
 

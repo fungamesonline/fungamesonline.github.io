@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import GameDashboard from "../game-dashboard"
 import Footer from "@/components/footer"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = { 
   title: "Fun Games - 22+ Free Online Games to Play",
   description:
     "Discover and play 22+ fun free online games. From classic arcade games like Snake and Tetris to modern challenges like 2048 and Simon Says. No downloads needed!",
